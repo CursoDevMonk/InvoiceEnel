@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceDataEnelConsole", "InvoiceDataEnelConsole.csproj", "{AE01F21D-40C8-4105-8BB9-123AF8913C9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE01F21D-40C8-4105-8BB9-123AF8913C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE01F21D-40C8-4105-8BB9-123AF8913C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE01F21D-40C8-4105-8BB9-123AF8913C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE01F21D-40C8-4105-8BB9-123AF8913C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DD8F6C1-5AA0-411B-BDA1-0AA1A106C4EC}
+	EndGlobalSection
+EndGlobal
